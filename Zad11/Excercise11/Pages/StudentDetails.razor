@@ -1,0 +1,52 @@
+﻿@page "/students/{ID:int}"
+@using Excercise11.Data
+@inject StudentsService studentsService
+@inject NavigationManager navigationManager
+
+<h3>Student's Details</h3>
+<div class="container">
+   <div class="data-side">
+       <div class="element first-name">
+           <a>First Name: </a>
+           <a>@student.FirstName</a>
+       </div>
+        <div class="element last-name">
+            <a>Last Name: </a>
+            <a>@student.LastName</a>
+       </div>
+        <div class="element birthday">
+            <a>Birthday: </a>
+            <a>@student.Birthday.ToShortDateString()</a>
+       </div>
+        <div class="element Studies">
+            <a>Studies: </a>
+            <a>@student.Studies</a>
+       </div>
+   </div>
+   <div class="avatar-side">
+       <div class="avatar-url">
+           <a>Avatar: </a>
+           <div class="url">@student.Avatar</div>
+       </div>
+       <div class="avatar-photo">
+            <img src="@student.Avatar" alt="@student.FirstName @student.LastName" />
+       </div>
+   </div>
+</div>
+<button class="return-button" @onclick="@(() => returnToStudentss())">Return</button>
+
+
+@code {
+    public Student student { get; set; }
+
+    protected override void OnInitialized()
+    {
+        student = studentsService.Students.FirstOrDefault(e => e.Id == ID);
+    }
+    [Parameter]
+    public int ID { get; set; }
+
+    void returnToStudentss(){
+        navigationManager.NavigateTo("/students");
+    }
+}

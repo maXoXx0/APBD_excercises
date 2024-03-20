@@ -1,0 +1,55 @@
+﻿div{
+    background-color:lightblue;
+}
+.container{
+    height: 600px;
+}
+a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.data-side{
+    width: 50%;
+    float: left;
+    height:100%;
+    text-align:center;
+    display: table;
+}
+.avatar-side{
+    width: 50%;
+    float: right;
+    height:100%;
+    text-align:center;
+    display:block;
+}
+
+.element {
+    padding-top: 40px;
+}
+.content {
+    float: right;
+}
+img{
+    max-width: 300px;
+    max-height: 300px;
+    padding-top: 80px;
+    border-radius: 80%;
+}
+.url {
+    align-self: center;
+    white-space: nowrap;
+    width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float: right
+     
+}
+
+.avatar-utl{
+    margin-top: 30px;
+}
+
+.avatar-photo{
+    align-self:center
+}

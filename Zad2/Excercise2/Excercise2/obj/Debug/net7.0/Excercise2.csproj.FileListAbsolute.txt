@@ -1,0 +1,15 @@
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.csproj.AssemblyReference.cache
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.AssemblyInfoInputs.cache
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.AssemblyInfo.cs
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\bin\Debug\net7.0\Excercise2.exe
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\bin\Debug\net7.0\Excercise2.deps.json
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\bin\Debug\net7.0\Excercise2.runtimeconfig.json
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\bin\Debug\net7.0\Excercise2.dll
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\bin\Debug\net7.0\Excercise2.pdb
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.dll
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\refint\Excercise2.dll
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.pdb
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\Excercise2.genruntimeconfig.cache
+C:\Users\maksj\OneDrive\Pulpit\Studia\IV sem\APBD\CwII\cwiczenia2_mp-MJ25135\Excercise2\Excercise2\obj\Debug\net7.0\ref\Excercise2.dll

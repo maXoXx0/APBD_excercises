@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Excercise2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\maksj\\Desktop\\csvData.csv C:\\Users\\maksj\\Desktop\\logi C:\\Users\\maksj\\Desktop\\output.json json"
+    }
+  }
+}
